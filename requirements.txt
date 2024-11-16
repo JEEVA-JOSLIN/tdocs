@@ -2,5 +2,4 @@ fastapi==0.103.0
 uvicorn[standard]==0.23.2
 python-magic==0.4.27
 gunicorn==21.2.0
-python-libmagic==0.4.0
 
